@@ -20,7 +20,7 @@ import db from '../utils/mongo';
   import { Store } from '../utils/Store';
   import axios from 'axios';
   import Pagination from '@mui/material/Pagination';import Product from '../models/Product';
-;
+
   
   const PAGE_SIZE = 3;
   
